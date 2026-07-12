@@ -1,0 +1,6 @@
+Order_ID,Customer,Product,Sales,Quantity,City
+101,Ravi,Laptop,50000.0,1,Hyderabad
+102,Priya,Mobile,20000.0,2,Chennai
+103,Ravi,Laptop,50000.0,1,Hyderabad
+104,Kiran,Tablet,34500.0,3,Bangalore
+105,Anu,Mobile,18000.0,2,Chennai
